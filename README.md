@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AA-5
+- 👋 Hi, I’m @aa-5
 - 👀 I’m interested in Astronomy.
 - 🌱 I’m currently learning python and javascript.
 
