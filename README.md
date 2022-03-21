@@ -30,3 +30,14 @@
 
 ![Aerocyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerocyber&show_icons=true&theme=aura)
 ![Aerocyber's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerocyber&layout=compact)
+
+
+### Top Repos
+
+#### [Aurora](https://github.com/Aurora)
+
+Aurora is an open-source program to generate Python environment configuration file and enable other developers to re-generate them in a Pythonic way.
+
+#### [Osmata](https://github.com/osmata)
+
+Osmata is the open-source alternative to the now Google Bookmarks. Written in HTML, CSS, JS.
