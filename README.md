@@ -34,10 +34,10 @@
 
 ### Top Repos
 
-#### [Aurora](https://github.com/Aurora)
+#### [Aurora](https://github.com/aerocyber/Aurora)
 
 Aurora is an open-source program to generate Python environment configuration file and enable other developers to re-generate them in a Pythonic way.
 
-#### [Osmata](https://github.com/osmata)
+#### [Osmata](https://github.com/aerocyber/osmata)
 
 Osmata is the open-source alternative to the now Google Bookmarks. Written in HTML, CSS, JS.
