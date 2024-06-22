@@ -38,7 +38,7 @@ Web: [aerocyber.github.io](https://aerocyber.github.io)<br/>
 <div align="center">
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=arch,kali,kde,linux,ubuntu,windows"/>
 	<br>
-	![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+	<img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
 </div>
 
 ## Github Stats
