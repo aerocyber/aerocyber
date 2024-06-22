@@ -46,9 +46,9 @@ Web: [aerocyber.github.io](https://aerocyber.github.io)<br/>
 
 ### Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](#Stats))<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=aerocyber&theme=radical&hide_border=false)(#Stats)]<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#STats)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](#Stats)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=aerocyber&theme=radical&hide_border=false)](#Stats)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
 
 
 ### Trophies
