@@ -9,6 +9,7 @@ I'm a passionate developer, with a few projects to make the world easier to live
 I've got a few projects which I'd love to brag on and on. I'm keeping this short, check them out!
 
 [Sitemarker](https://github.com/aerocyber/sitemarker): An elegant bookmark manager for Windows, Linux and Android.
+[pylanguage](https://github.com/aerocyber/pylanguage): A translation handler for Python.
 
 ## Sponsor my projects
 
