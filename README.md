@@ -13,7 +13,16 @@ I've got a few projects which I'd love to brag on and on. I'm keeping this short
 
 ## Sponsor my projects
 
-You can help me develop my projects and grow them by contributing. You can either contribute code (checkout their repos!) or you can sponsor me on [Github](https://github.com/sponsors/aerocyber) or [Buy Me a Coffee](https://buymeacoffee.com/aerocyber).
+You can help me develop my projects and grow them by contributing. You can either contribute code (check their repos!) or you can sponsor me on:
+- [Github](https://github.com/sponsors/aerocyber)
+-  [Buy Me a Coffee](https://buymeacoffee.com/aerocyber)
+-  <details>
+	<summary>Crypto donations</summary> <br/>
+
+	- Ethereum: `0x0De02c0b17697DAc86d186D08293Bb6337C859a6`
+ 	- Polygon:  `0x0De02c0b17697DAc86d186D08293Bb6337C859a6`
+  	- Solana:  `22ModgrvARKZCkwpcs8VWS9HXkq9M4iMKpLa5fTUHH1r`
+</details>
 
 ## Contact me
 
