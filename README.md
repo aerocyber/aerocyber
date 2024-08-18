@@ -26,6 +26,11 @@ You can help me develop my projects and grow them by contributing. You can eithe
 
 ## Contact me
 
+### Prove your identity
+
+When contacting me via email/Mastodon, please prove your identity. This can be a link to your personal/public website or anything that proves that you are who you claim to be or represents who you claim to represent.
+
+### Links
 Mastodon: [aerocyber@mastodon.social](https://mastodon.social/@aerocyber@mastodon.social), [aerocyber@fosstodon.org](https://mastodon.social/@aerocyber@fosstodon.org) <br/>
 E-mail: [aerocyberdev@proton.me](mailto:aerocyberdev@proton.me) <br/>
 Github: [@aerocyber](https://github.com/aerocyber)<br/>
