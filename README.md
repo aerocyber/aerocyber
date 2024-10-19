@@ -41,17 +41,17 @@ Web: [aerocyber.github.io](https://aerocyber.github.io)<br/>
 
 ### Languages and Frameworks
 <div align="center">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,py,dart,flutter,c,java,lua,md,ts,bash,flask,react,bulma,gtk,kotlin,latex"/>
+	<img src="https://go-skill-icons.vercel.app/api/icons?perline=7&i=js,html,css,py,dart,flutter,c,java,lua,md,ts,bash,flask,react,bulma,gtk,kotlin,latex"/>
 </div>
 
 ### Tools
 <div align="center">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,firebase,mysql,sqlite,androidstudio,nodejs,npm,qt,github,githubactions,gitlab,anaconda"/>
+	<img src="https://go-skill-icons.vercel.app/api/icons?perline=7&i=git,docker,firebase,mysql,sqlite,androidstudio,nodejs,npm,qt,github,githubactions,gitlab,anaconda"/>
 </div>
 
 ### Others
 <div align="center">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=inkscape,arch,kali,kde,linux,ubuntu,windows"/>
+	<img src="https://go-skill-icons.vercel.app/api/icons?perline=7&i=inkscape,arch,kali,kde,linux,ubuntu,windows"/>
 	<br/>
 </div>
 
@@ -59,19 +59,19 @@ Web: [aerocyber.github.io](https://aerocyber.github.io)<br/>
 
 ### Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](#Stats)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=aerocyber&theme=radical&hide_border=false)](#Stats)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=aerocyber&theme=tokyo-night&hide_title=true&radius=16&days=35)](#Stats) <br/> <br/>
+
+[![](https://github-readme-stats.vercel.app/api?username=aerocyber&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&border-radius=16&include_all_commits=true&count_private=true)](#Stats)<br/> <br/>
+
+[![](https://streak-stats.demolab.com?user=aerocyber&theme=dark&border_radius=20&ring=EB4F46&fire=EBA44B)](#Stats)<br/> <br/>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/> <br/>
 
 
 ### Trophies
 
 [![](https://github-profile-trophy.vercel.app/?username=aerocyber&theme=radical&no-frame=false&no-bg=true&margin-w=4)](#Trophies)
 
-### Contributions
-
-[![](https://github-contributor-stats.vercel.app/api?username=aerocyber&limit=5&theme=monokai&combine_all_yearly_contributions=true)](#Contributions)
-
 ### Visitors
 
-[![](https://visitcount.itsvg.in/api?id=aerocyber&icon=0&color=0)](#Visitors)
+[![](https://visitcount.itsvg.in/api?id=aerocyber&color=12&icon=0)](#Visitors)
