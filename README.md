@@ -28,13 +28,13 @@ You can help me develop my projects and grow them by contributing. You can eithe
 
 ### Prove your identity
 
-When contacting me via email/Mastodon, please prove your identity. This can be a link to your personal/public website or anything that proves that you are who you claim to be or represents who you claim to represent.
+When contacting me via email/Mastodon, please let me know who you are through a public profile. This is to combat spam. Your public profile can be a link to your personal/public website or anything that tells me who you are.
 
 ### Links
-Mastodon: [aerocyber@mastodon.social](https://mastodon.social/@aerocyber@mastodon.social), [aerocyber@fosstodon.org](https://mastodon.social/@aerocyber@fosstodon.org) <br/>
+Mastodon: [aerocyber@mastodon.social](https://mastodon.social/@aerocyber@mastodon.social), [aerocyber@fosstodon.org](https://mastodon.social/@aerocyber@fosstodon.org) (Not much active) <br/>
 E-mail: [aerocyberdev@proton.me](mailto:aerocyberdev@proton.me) <br/>
-Github: [@aerocyber](https://github.com/aerocyber)<br/>
-Web: [aerocyber.github.io](https://aerocyber.github.io)<br/>
+Github: [@aerocyber](https://github.com/aerocyber) <br/>
+Web: [aerocyber.github.io](https://aerocyber.github.io) <br/>
 
 
 ## Skills
