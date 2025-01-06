@@ -31,7 +31,7 @@ You can help me develop my projects and grow them by contributing. You can eithe
 When contacting me via email/Mastodon, please let me know who you are through a public profile. This is to combat spam. Your public profile can be a link to your personal/public website or anything that tells me who you are.
 
 ### Links
-Mastodon: [aerocyber@mastodon.social](https://mastodon.social/@aerocyber@mastodon.social), [aerocyber@fosstodon.org](https://mastodon.social/@aerocyber@fosstodon.org) (Not much active) <br/>
+Mastodon: [aerocyber@mastodon.social](https://mastodon.social/@aerocyber@mastodon.social), [aerocyber@fosstodon.org](https://mastodon.social/@aerocyber@fosstodon.org) (Not active much) <br/>
 E-mail: [aerocyberdev@proton.me](mailto:aerocyberdev@proton.me) <br/>
 Github: [@aerocyber](https://github.com/aerocyber) <br/>
 Web: [aerocyber.github.io](https://aerocyber.github.io) <br/>
