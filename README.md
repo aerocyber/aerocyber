@@ -2,33 +2,31 @@
 
 ## Who am I?
 
-I'm a passionate developer, with a few projects to make the world easier to live in.
+A human, a student and a learner. No, being a student is different from being a learner. Develops apps and scripts to solve my problems.
 
 ## My Projects
 
-I've got a few projects which I'd love to brag on and on. I'm keeping this short, check them out!
-
+Check out these projects! <br/>
 [Sitemarker](https://github.com/aerocyber/sitemarker): An elegant bookmark manager for Windows, Linux and Android. <br/>
-[pylanguage](https://github.com/aerocyber/pylanguage): A translation handler for Python.
+[Archsec](https://github.com/aerocyber/ArchSec): Script for enabling Secure boot on Arch ISOs. Arch derivatives are supported as long as it uses GRUB and you rename the filename.
 
 ## Sponsor my projects
 
-You can help me develop my projects and grow them by contributing. You can either contribute code (check their repos!) or you can sponsor me on:
-- [Github](https://github.com/sponsors/aerocyber)
--  [Buy Me a Coffee](https://buymeacoffee.com/aerocyber)
--  <details>
-	<summary>Crypto donations</summary> <br/>
+If you find my projects useful, please consider buying me a coffee so that I can keep myself warm in this cold world. I accept donations through:
 
+- [Github](https://github.com/sponsors/aerocyber)
+- [Buy Me a Coffee](https://buymeacoffee.com/aerocyber)
+-  I do accept the following crypto:
 	- Ethereum: `0x0De02c0b17697DAc86d186D08293Bb6337C859a6`
  	- Polygon:  `0x0De02c0b17697DAc86d186D08293Bb6337C859a6`
   	- Solana:  `22ModgrvARKZCkwpcs8VWS9HXkq9M4iMKpLa5fTUHH1r`
-</details>
 
 ## Contact me
 
 ### Prove your identity
+When contacting me via Email for requests [Yes! I do take requests provided you can give something equal in value to me. It doesn't equate to money but free access to resources will do too!], please prove your identity on who you are by linking to a public profile. This is to combat spam.
 
-When contacting me via email/Mastodon, please let me know who you are through a public profile. This is to combat spam. Your public profile can be a link to your personal/public website or anything that tells me who you are.
+FOr casual and support mails, please feel free to skip this!
 
 ### Links
 Mastodon: [aerocyber@mastodon.social](https://mastodon.social/@aerocyber@mastodon.social), [aerocyber@fosstodon.org](https://mastodon.social/@aerocyber@fosstodon.org) (Not active much) <br/>
@@ -60,18 +58,8 @@ Web: [aerocyber.github.io](https://aerocyber.github.io) <br/>
 ### Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](#Stats)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=aerocyber&theme=radical&hide_border=false)](#Stats)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=aerocyber&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#Stats)<br/>
-
-
-### Trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=aerocyber&theme=radical&no-frame=false&no-bg=true&margin-w=4)](#Trophies)
 
 ### Contributions
 
 [![](https://github-contributor-stats.vercel.app/api?username=aerocyber&limit=5&theme=monokai&combine_all_yearly_contributions=true)](#Contributions)
-
-### Visitors
-
-[![](https://visitcount.itsvg.in/api?id=aerocyber&icon=0&color=0)](#Visitors)
