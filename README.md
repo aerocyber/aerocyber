@@ -64,10 +64,3 @@ Web: [aerocyber.github.io](https://aerocyber.github.io) <br/>
 
 [![](https://github-contributor-stats.vercel.app/api?username=aerocyber&limit=5&theme=monokai&combine_all_yearly_contributions=true)](#Contributions)
 
-<!--
-Testing code below
--->
-
-<script src="script.js">
-
-</script>
