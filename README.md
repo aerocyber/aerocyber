@@ -67,5 +67,7 @@ Web: [aerocyber.github.io](https://aerocyber.github.io) <br/>
 <!--
 Testing code below
 -->
-<script src="./script.js">
+
+<script src="script.js">
+
 </script>
