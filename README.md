@@ -1,4 +1,5 @@
 # Hello, World!
+<script src="./script.js></script>
 
 ## Who am I?
 A human (no, I am not another AI Bot), a student, a learner and a developer. I am also a Linux enthusiast, open source contributor and privacy advocate.
